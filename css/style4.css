@@ -11,6 +11,7 @@ body{
     transform: rotateX(40deg);
     border-radius: 50px;
     box-shadow: 5px 5px 5px;
+    transform-style: preserve-3d;
 }
 
 .main .wrapper{
@@ -51,21 +52,20 @@ body{
 }
 .top:hover{
      z-index: 5;
-     transform: translateZ(150px);
+     transform: translateZ(55px);
  }
 .right:hover{
     z-index: 5;
-    transform: translateZ(150px);
+    transform: translateZ(55px);
 }
 .bottom:hover{
     z-index: 5;
-    transform: translateZ(150px);
+    transform: translateZ(55px);
 }
 .left:hover{
     z-index: 5;
-    transform: translateZ(150px);
+    transform: translateZ(55px);
 }
-
 
 .button{
     position: absolute;

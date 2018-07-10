@@ -9,6 +9,8 @@ body{
     position: relative;
     perspective: 1000px;
     transform: rotateX(40deg);
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px;
 }
 
 .main .wrapper{
@@ -21,6 +23,7 @@ body{
     transition: 0.5s;
     box-shadow: 5px 5px 5px;
     perspective: 1000px;
+    border-radius: 20px;
 }
 .top{
     top: 50px;

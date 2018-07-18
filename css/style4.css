@@ -50,23 +50,13 @@ body{
     background: blue;
     z-index: 3;
 }
-.top:hover{
+.top:hover,
+.right:hover,
+.bottom:hover,
+.left:hover{
      z-index: 5;
      transform: translateZ(55px);
  }
-.right:hover{
-    z-index: 5;
-    transform: translateZ(55px);
-}
-.bottom:hover{
-    z-index: 5;
-    transform: translateZ(55px);
-}
-.left:hover{
-    z-index: 5;
-    transform: translateZ(55px);
-}
-
 .button{
     position: absolute;
     width: 70px;

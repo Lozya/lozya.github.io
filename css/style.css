@@ -11,6 +11,7 @@ a{
 ul{
     list-style: none;
 }
+
 .wrapper{
     max-width: 1366px;
     margin: 0 auto;
@@ -59,8 +60,17 @@ ul{
     font-size: 20px;
     color: black;
 }
+.menu .burger-menu{
+    display: none;
+}
 .menu .active-page{
     background: lightgray;
+}
+.menu .burger-menu .menu-item{
+    display: none;
+}
+.menu .burger-menu:hover .menu-item ul{
+    display: block;
 }
 .menu a:hover{background-color: lightgray}
 .content .wrapper{
@@ -92,7 +102,7 @@ ul{
 .about{
     font-size: 18px;
     text-align: justify;
-    font-family: "Times New Roman";
+    font-family: 'Raleway', sans-serif;
 
 }
 .content-item1, .content-item2{
@@ -134,4 +144,17 @@ ul{
     font-size: 20px;
     text-align: center;
     font-family: Arial, sans-serif;
+}
+
+@media only screen and (max-width: 875px){
+    .menu .burger-menu{
+        display: block;
+    }
+    .menu > ul{
+        display: none;
+    }
+    .photo{
+        float: none;
+    }
+
 }

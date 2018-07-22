@@ -1,0 +1,2210 @@
+@media screen and ( max-width: 1600px ){
+  h1 {
+
+  }
+  h2 {
+
+  }
+  h3 {
+
+  }
+  .pink{}
+  .green{}
+  .blue{}
+  .lobsterGray{
+
+  }
+  .lobsterBlue{
+
+  }
+  .button{
+
+    & i{
+
+    }// i
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+  }// button
+  .mainWrapper{
+
+  }// main-wrapper
+  .wrapper{
+
+  }// wrapper
+  .social{
+
+    &__logo{
+
+    }// __logo
+    &__icons{
+
+      & ul{
+
+        & li{
+
+        }// li
+      }// ul
+      & a{
+
+        &:hover {
+
+        }// hover
+      }// a
+    }// __icons
+  }// social
+  .navSection {
+
+  }//nav-section
+  .burgerMenu {
+
+    &:hover {
+
+    }// :hover
+    &__burgerMenuIcon {
+
+    }//__burgerMenuIcon
+    &__burgerMenuItems {
+
+      & ul li a {
+
+        &:hover {
+
+        }// :hover
+      }// ul li a
+    }// __burgerMenuItems
+  }// burgerMenu
+  .horizontalMenu{
+
+    & li{
+      &:hover {
+
+      }// :hover
+      & a{
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// li
+  }// horizontalMenu
+  .sectionFlex {
+
+  }// sectionFlex
+  .slider {
+    max-width: 1600px;
+    height: 43vw;
+    .wrapper {
+
+    }
+  }// slider
+  .userAction {
+
+    &__description {
+
+    }// __description
+    &__buttons {
+
+      .button {
+
+      }// button
+    }// __buttons
+  }// userAction
+  .mainHeader {
+
+  } // mainHeader
+  .tabs {
+
+    &:last-child {
+
+    }// :last-child
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+    &__iconSection {
+
+    }// __iconSection
+    &__headerSection {
+
+    }// __headerSection
+    &__description {
+
+    }// __description
+    &__line {
+
+    }// __line
+  }// tabs
+  .wrapperAbout {
+
+  }// wrapperAbout
+  .aboutSection {
+
+    &__header {
+
+      &-header {
+
+      }// -header
+      &-description {
+
+      }// -description
+    }// __header
+    &__items {
+
+      &-item {
+
+      }// -item
+    }// __items
+  }// aboutSection
+}
+@media screen and ( max-width: 1200px ){
+  h1 {
+
+  }
+  h2 {
+
+  }
+  h3 {
+
+  }
+  .pink{}
+  .green{}
+  .blue{}
+  .lobsterGray{
+
+  }
+  .lobsterBlue{
+
+  }
+  .button{
+
+    & i{
+
+    }// i
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+  }// button
+  .mainWrapper{
+
+  }// main-wrapper
+  .wrapper{
+    padding-left: 15px;
+    padding-right: 15px;
+  }// wrapper
+  .social{
+
+    &__logo{
+
+    }// __logo
+    &__icons{
+
+      & ul{
+
+        & li{
+
+        }// li
+      }// ul
+      & a{
+
+        &:hover {
+
+        }// hover
+      }// a
+    }// __icons
+  }// social
+  .navSection {
+
+  }//nav-section
+  .burgerMenu {
+
+    &:hover {
+
+    }// :hover
+    &__burgerMenuIcon {
+
+    }//__burgerMenuIcon
+    &__burgerMenuItems {
+
+      & ul li a {
+
+        &:hover {
+
+        }// :hover
+      }// ul li a
+    }// __burgerMenuItems
+  }// burgerMenu
+  .horizontalMenu{
+
+    & li{
+      &:hover {
+
+      }// :hover
+      & a{
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// li
+  }// horizontalMenu
+  .sectionFlex {
+
+  }// sectionFlex
+  .slider {
+
+    .wrapper {
+
+    }
+  }// slider
+  .userAction {
+
+    &__description {
+
+    }// __description
+    &__buttons {
+
+      .button {
+
+      }// button
+    }// __buttons
+  }// userAction
+  .mainHeader {
+
+  } // mainHeader
+  .tabs {
+
+    &:last-child {
+
+    }// :last-child
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+    &__iconSection {
+
+    }// __iconSection
+    &__headerSection {
+
+    }// __headerSection
+    &__description {
+
+    }// __description
+    &__line {
+
+    }// __line
+  }// tabs
+  .wrapperAbout {
+
+  }// wrapperAbout
+  .aboutSection {
+
+    &__header {
+
+      &-header {
+
+      }// -header
+      &-description {
+
+      }// -description
+    }// __header
+    &__items {
+
+      &-item {
+
+      }// -item
+    }// __items
+  }// aboutSection
+}
+@media screen and ( max-width: 1150px ) {
+  h1 {
+    font-size: 50px;
+    line-height: 1.2;
+  }
+  h2 {
+
+  }
+  h3 {
+
+  }
+  .pink{}
+  .green{}
+  .blue{}
+  .lobsterGray{
+
+  }
+  .lobsterBlue{
+
+  }
+  .button{
+
+    & i{
+
+    }// i
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+  }// button
+  .mainWrapper{
+
+  }// main-wrapper
+  .wrapper{
+
+  }// wrapper
+  .social{
+
+    &__logo{
+      & img{
+        height: 167px;
+      }
+    }// __logo
+    &__icons{
+
+      & ul{
+
+        & li{
+
+        }// li
+      }// ul
+      & a{
+
+        &:hover {
+
+        }// hover
+      }// a
+    }// __icons
+  }// social
+  .navSection {
+    height: 80px;
+  }//nav-section
+  .burgerMenu {
+    display: block;
+    justify-content: center;
+    &:hover {
+
+    }// :hover
+    &__burgerMenuIcon {
+
+    }//__burgerMenuIcon
+    &__burgerMenuItems {
+
+      & ul li a {
+
+        &:hover {
+
+        }// :hover
+      }// ul li a
+    }// __burgerMenuItems
+  }// burgerMenu
+  .horizontalMenu{
+    display: none;
+    & li{
+      &:hover {
+
+      }// :hover
+      & a{
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// li
+  }// horizontalMenu
+  .sectionFlex {
+
+  }// sectionFlex
+  .slider {
+    max-width: 100%;
+    height: 43vw;
+    .wrapper {
+
+    }
+  }// slider
+  .userAction {
+    padding-bottom: 67px;
+    &__description {
+
+    }// __description
+    &__buttons {
+
+      .button {
+
+      }// button
+    }// __buttons
+  }// userAction
+  .mainHeader {
+    display: flex;
+  } // mainHeader
+  .tabs {
+
+    &:last-child {
+
+    }// :last-child
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+    &__iconSection {
+
+    }// __iconSection
+    &__headerSection {
+
+    }// __headerSection
+    &__description {
+      text-align: center;
+    }// __description
+    &__line {
+
+    }// __line
+  }// tabs
+  .wrapperAbout {
+
+  }// wrapperAbout
+  .aboutSection {
+
+    &__header {
+
+      &-header {
+
+      }// -header
+      &-description {
+
+      }// -description
+    }// __header
+    &__items {
+
+      &-item {
+
+      }// -item
+    }// __items
+  }// aboutSection
+}
+@media screen and ( max-width: 1024px ) {
+  h1 {
+    font-size: 42px;
+  }
+  h2 {
+
+  }
+  h3 {
+
+  }
+  .pink{}
+  .green{}
+  .blue{}
+  .lobsterGray{
+
+  }
+  .lobsterBlue{
+
+  }
+  .button{
+
+    & i{
+
+    }// i
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+  }// button
+  .mainWrapper{
+
+  }// main-wrapper
+  .wrapper{
+
+  }// wrapper
+  .social{
+
+    &__logo{
+
+    }// __logo
+    &__icons{
+
+      & ul{
+
+        & li{
+
+        }// li
+      }// ul
+      & a{
+
+        &:hover {
+
+        }// hover
+      }// a
+    }// __icons
+  }// social
+  .navSection {
+
+  }//nav-section
+  .burgerMenu {
+
+    &:hover {
+
+    }// :hover
+    &__burgerMenuIcon {
+
+    }//__burgerMenuIcon
+    &__burgerMenuItems {
+
+      & ul li a {
+
+        &:hover {
+
+        }// :hover
+      }// ul li a
+    }// __burgerMenuItems
+  }// burgerMenu
+  .horizontalMenu{
+
+    & li{
+      &:hover {
+
+      }// :hover
+      & a{
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// li
+  }// horizontalMenu
+  .sectionFlex {
+
+  }// sectionFlex
+  .slider {
+
+    .wrapper {
+
+    }
+  }// slider
+  .userAction {
+    width: 380px;
+    &__description {
+      font-size: 16px;
+      line-height: 1.5;
+    }// __description
+    &__buttons {
+
+      .button {
+        font-weight: 400;
+      }// button
+    }// __buttons
+  }// userAction
+  .mainHeader {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 50px 0;
+  } // mainHeader
+  .tabs {
+
+    &:first-child{
+      margin-bottom: 20px;
+    }
+    &:last-child {
+      margin-left: -10px;
+      margin-top: 20px;
+    }// :last-child
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+    &__iconSection {
+
+    }// __iconSection
+    &__headerSection {
+
+    }// __headerSection
+    &__description {
+
+    }// __description
+    &__line {
+
+    }// __line
+  }// tabs
+  .wrapperAbout {
+
+  }// wrapperAbout
+  .aboutSection {
+
+    &__header {
+
+      &-header {
+
+      }// -header
+      &-description {
+
+      }// -description
+    }// __header
+    &__items {
+
+      &-item {
+
+      }// -item
+    }// __items
+  }// aboutSection
+}
+@media screen and ( max-width: 860px ) {
+  h1 {
+
+  }
+  h2 {
+    font-size: 36px;
+  }
+  h3 {
+    font-size: 22px;
+  }
+  .pink{}
+  .green{}
+  .blue{}
+  .lobsterGray{
+    font-size: 18px;
+    line-height: 1.2;
+  }
+  .lobsterBlue{
+    font-size: 28px;
+    line-height: 1.2;
+  }
+  .button{
+
+    & i{
+
+    }// i
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+  }// button
+  .mainWrapper{
+
+  }// main-wrapper
+  .wrapper{
+
+  }// wrapper
+  .social{
+
+    &__logo{
+
+    }// __logo
+    &__icons{
+
+      & ul{
+
+        & li{
+
+        }// li
+      }// ul
+      & a{
+
+        &:hover {
+
+        }// hover
+      }// a
+    }// __icons
+  }// social
+  .navSection {
+
+  }//nav-section
+  .burgerMenu {
+
+    &:hover {
+
+    }// :hover
+    &__burgerMenuIcon {
+
+    }//__burgerMenuIcon
+    &__burgerMenuItems {
+
+      & ul li a {
+
+        &:hover {
+
+        }// :hover
+      }// ul li a
+    }// __burgerMenuItems
+  }// burgerMenu
+  .horizontalMenu{
+
+    & li{
+      &:hover {
+
+      }// :hover
+      & a{
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// li
+  }// horizontalMenu
+  .sectionFlex {
+
+  }// sectionFlex
+  .slider {
+
+    .wrapper {
+
+    }
+  }// slider
+  .userAction {
+    padding-bottom: 0;
+    width: 45%;
+    &__description {
+
+    }// __description
+    &__buttons {
+
+      .button {
+
+      }// button
+    }// __buttons
+  }// userAction
+  .mainHeader {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 50px 0;
+  } // mainHeader
+  .tabs {
+
+    &:last-child {
+
+    }// :last-child
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+    &__iconSection {
+
+    }// __iconSection
+    &__headerSection {
+
+    }// __headerSection
+    &__description {
+      text-align: left;
+      padding: 3px 5px;
+    }// __description
+    &__line {
+
+    }// __line
+  }// tabs
+  .wrapperAbout {
+
+  }// wrapperAbout
+  .aboutSection {
+
+    &__header {
+
+      &-header {
+
+      }// -header
+      &-description {
+
+      }// -description
+    }// __header
+    &__items {
+
+      &-item {
+        & img{
+          width: auto;
+          height: 18vw;
+        }
+      }// -item
+    }// __items
+  }// aboutSection
+}
+@media screen and ( max-width: 768px ) {
+  h1 {
+    font-size: 40px;
+    line-height: 1;
+  }
+  h2 {
+
+  }
+  h3 {
+
+  }
+  .pink{}
+  .green{}
+  .blue{}
+  .lobsterGray{
+    font-size: 22px;
+    line-height: 1.2;
+  }
+  .lobsterBlue{
+    font-size: 40px;
+    line-height: 1.2;
+  }
+  .button{
+
+    & i{
+
+    }// i
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+  }// button
+  .mainWrapper{
+
+  }// main-wrapper
+  .wrapper{
+
+  }// wrapper
+  .social{
+
+    &__logo{
+
+    }// __logo
+    &__icons{
+
+      & ul{
+
+        & li{
+
+        }// li
+      }// ul
+      & a{
+
+        &:hover {
+
+        }// hover
+      }// a
+    }// __icons
+  }// social
+  .navSection {
+
+  }//nav-section
+  .burgerMenu {
+
+    &:hover {
+
+    }// :hover
+    &__burgerMenuIcon {
+
+    }//__burgerMenuIcon
+    &__burgerMenuItems {
+
+      & ul li a {
+
+        &:hover {
+
+        }// :hover
+      }// ul li a
+    }// __burgerMenuItems
+  }// burgerMenu
+  .horizontalMenu{
+
+    & li{
+      &:hover {
+
+      }// :hover
+      & a{
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// li
+  }// horizontalMenu
+  .sectionFlex {
+
+  }// sectionFlex
+  .slider {
+    height: 59vw;
+    .wrapper {
+
+    }
+  }// slider
+  .userAction {
+
+    &__description {
+      width: 100%;
+      margin: 5px 0 10px 0;
+    }// __description
+    &__buttons {
+      justify-content: center;
+      margin-bottom: 20px;
+      .button {
+
+      }// button
+    }// __buttons
+  }// userAction
+  .mainHeader {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 50px 0;
+  } // mainHeader
+  .tabs {
+    margin: 0 0 0 15px;
+    padding: 20px 25px 20px 20px;
+    &:last-child {
+      margin-left: 20px;
+      margin-bottom: 0;
+    }// :last-child
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+    &__iconSection {
+
+    }// __iconSection
+    &__headerSection {
+
+    }// __headerSection
+    &__description {
+
+    }// __description
+    &__line {
+      display: block;
+    }// __line
+  }// tabs
+  .wrapperAbout {
+
+  }// wrapperAbout
+  .aboutSection {
+
+    &__header {
+
+      &-header {
+
+      }// -header
+      &-description {
+
+      }// -description
+    }// __header
+    &__items {
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      &-item {
+        margin-bottom: 35px;
+        & img{
+          width: auto;
+          height: auto;
+          margin-bottom: 5px;
+        }
+        &:last-child{
+          margin-bottom: 0;
+        }
+      }// -item
+    }// __items
+  }// aboutSection
+}
+@media screen and ( max-width: 700px ) {
+  h1 {
+    font-size: 36px;
+  }
+  h2 {
+
+  }
+  h3 {
+
+  }
+  .pink{}
+  .green{}
+  .blue{}
+  .lobsterGray{
+
+  }
+  .lobsterBlue{
+
+  }
+  .button{
+
+    & i{
+
+    }// i
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+  }// button
+  .mainWrapper{
+
+  }// main-wrapper
+  .wrapper{
+
+  }// wrapper
+  .social{
+
+    &__logo{
+
+    }// __logo
+    &__icons{
+
+      & ul{
+
+        & li{
+
+        }// li
+      }// ul
+      & a{
+
+        &:hover {
+
+        }// hover
+      }// a
+    }// __icons
+  }// social
+  .navSection {
+
+  }//nav-section
+  .burgerMenu {
+
+    &:hover {
+
+    }// :hover
+    &__burgerMenuIcon {
+
+    }//__burgerMenuIcon
+    &__burgerMenuItems {
+
+      & ul li a {
+
+        &:hover {
+
+        }// :hover
+      }// ul li a
+    }// __burgerMenuItems
+  }// burgerMenu
+  .horizontalMenu{
+
+    & li{
+      &:hover {
+
+      }// :hover
+      & a{
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// li
+  }// horizontalMenu
+  .sectionFlex {
+
+  }// sectionFlex
+  .slider {
+
+    .wrapper {
+
+    }
+  }// slider
+  .userAction {
+
+    &__description {
+
+    }// __description
+    &__buttons {
+
+      .button {
+
+      }// button
+    }// __buttons
+  }// userAction
+  .mainHeader {
+
+  } // mainHeader
+  .tabs {
+
+    &:last-child {
+
+    }// :last-child
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+    &__iconSection {
+
+    }// __iconSection
+    &__headerSection {
+
+    }// __headerSection
+    &__description {
+
+    }// __description
+    &__line {
+
+    }// __line
+  }// tabs
+  .wrapperAbout {
+    padding: 0 20px;
+  }// wrapperAbout
+  .aboutSection {
+
+    &__header {
+
+      &-header {
+
+      }// -header
+      &-description {
+
+      }// -description
+    }// __header
+    &__items {
+
+      &-item {
+
+      }// -item
+    }// __items
+  }// aboutSection
+}
+@media screen and ( max-width: 640px ) {
+  h1 {
+
+  }
+  h2 {
+    font-size: 28px;
+  }
+  h3 {
+
+  }
+  .pink{}
+  .green{}
+  .blue{}
+  .lobsterGray{
+
+  }
+  .lobsterBlue{
+
+  }
+  .button{
+    height: 35px;
+    line-height: 33px;
+    font-size: 13px;
+    font-weight: 400;
+    & i{
+
+    }// i
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+  }// button
+  .mainWrapper{
+
+  }// main-wrapper
+  .wrapper{
+
+  }// wrapper
+  .social{
+
+    &__logo{
+      & img{
+        height: 137px;
+      }
+    }// __logo
+    &__icons{
+
+      & ul{
+
+        & li{
+
+        }// li
+      }// ul
+      & a{
+
+        &:hover {
+
+        }// hover
+      }// a
+    }// __icons
+  }// social
+  .navSection {
+    height: 55px;
+  }//nav-section
+  .burgerMenu {
+
+    &:hover {
+
+    }// :hover
+    &__burgerMenuIcon {
+
+    }//__burgerMenuIcon
+    &__burgerMenuItems {
+
+      & ul li a {
+
+        &:hover {
+
+        }// :hover
+      }// ul li a
+    }// __burgerMenuItems
+  }// burgerMenu
+  .horizontalMenu{
+
+    & li{
+      &:hover {
+
+      }// :hover
+      & a{
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// li
+  }// horizontalMenu
+  .sectionFlex {
+
+  }// sectionFlex
+  .slider {
+
+    .wrapper {
+
+    }
+  }// slider
+  .userAction {
+
+    &__description {
+
+    }// __description
+    &__buttons {
+
+      .button {
+
+      }// button
+    }// __buttons
+  }// userAction
+  .mainHeader {
+
+  } // mainHeader
+  .tabs {
+
+    &:last-child {
+
+    }// :last-child
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+    &__iconSection {
+
+    }// __iconSection
+    &__headerSection {
+
+    }// __headerSection
+    &__description {
+      padding: 0 10px;
+    }// __description
+    &__line {
+
+    }// __line
+  }// tabs
+  .wrapperAbout {
+
+  }// wrapperAbout
+  .aboutSection {
+
+    &__header {
+
+      &-header {
+
+      }// -header
+      &-description {
+
+      }// -description
+    }// __header
+    &__items {
+
+      &-item {
+
+      }// -item
+    }// __items
+  }// aboutSection
+}
+@media screen and ( max-width: 600px ) {
+  h1 {
+    font-size: 28px;
+  }
+  h2 {
+
+  }
+  h3 {
+
+  }
+  .pink{}
+  .green{}
+  .blue{}
+  .lobsterGray{
+
+  }
+  .lobsterBlue{
+
+  }
+  .button{
+
+    & i{
+
+    }// i
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+  }// button
+  .mainWrapper{
+
+  }// main-wrapper
+  .wrapper{
+
+  }// wrapper
+  .social{
+
+    &__logo{
+
+    }// __logo
+    &__icons{
+
+      & ul{
+
+        & li{
+
+        }// li
+      }// ul
+      & a{
+
+        &:hover {
+
+        }// hover
+      }// a
+    }// __icons
+  }// social
+  .navSection {
+
+  }//nav-section
+  .burgerMenu {
+
+    &:hover {
+
+    }// :hover
+    &__burgerMenuIcon {
+
+    }//__burgerMenuIcon
+    &__burgerMenuItems {
+
+      & ul li a {
+
+        &:hover {
+
+        }// :hover
+      }// ul li a
+    }// __burgerMenuItems
+  }// burgerMenu
+  .horizontalMenu{
+
+    & li{
+      &:hover {
+
+      }// :hover
+      & a{
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// li
+  }// horizontalMenu
+  .sectionFlex {
+
+  }// sectionFlex
+  .slider {
+
+    .wrapper {
+
+    }
+  }// slider
+  .userAction {
+
+    &__description {
+      font-size: 14px;
+      line-height: 1.2;
+    }// __description
+    &__buttons {
+
+      .button {
+
+      }// button
+    }// __buttons
+  }// userAction
+  .mainHeader {
+
+  } // mainHeader
+  .tabs {
+
+    &:last-child {
+
+    }// :last-child
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+    &__iconSection {
+
+    }// __iconSection
+    &__headerSection {
+
+    }// __headerSection
+    &__description {
+
+    }// __description
+    &__line {
+
+    }// __line
+  }// tabs
+  .wrapperAbout {
+
+  }// wrapperAbout
+  .aboutSection {
+
+    &__header {
+
+      &-header {
+
+      }// -header
+      &-description {
+
+      }// -description
+    }// __header
+    &__items {
+
+      &-item {
+
+      }// -item
+    }// __items
+  }// aboutSection
+}
+@media screen and ( max-width: 500px ) {
+  h1 {
+
+  }
+  h2 {
+
+  }
+  h3 {
+
+  }
+  .pink{
+    & p:after{
+      margin-left: 6px;
+    }
+  }
+  .green{}
+  .blue{}
+  .lobsterGray{
+
+  }
+  .lobsterBlue{
+
+  }
+  .button{
+    width: 130px;
+    height: 28px;
+    font-size: 9px;
+    line-height: 24px;
+    text-align: center;
+    & i{
+
+    }// i
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+  }// button
+  .mainWrapper{
+
+  }// main-wrapper
+  .wrapper{
+
+  }// wrapper
+  .social{
+
+    & li{
+      margin-right: 15px;
+      & :last-child{
+        margin-right: 0;
+      }
+    }
+    &__logo{
+      & img{
+        height: 110px;
+      }
+    }// __logo
+    &__icons{
+
+      & ul{
+
+        & li{
+
+        }// li
+      }// ul
+      & a{
+
+        &:hover {
+
+        }// hover
+      }// a
+    }// __icons
+  }// social
+  .navSection {
+    height: 42px;
+  }//nav-section
+  .burgerMenu {
+
+    &:hover {
+
+    }// :hover
+    &__burgerMenuIcon {
+
+    }//__burgerMenuIcon
+    &__burgerMenuItems {
+
+      & ul li a {
+
+        &:hover {
+
+        }// :hover
+      }// ul li a
+    }// __burgerMenuItems
+  }// burgerMenu
+  .horizontalMenu{
+
+    & li{
+      &:hover {
+
+      }// :hover
+      & a{
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// li
+  }// horizontalMenu
+  .sectionFlex {
+
+  }// sectionFlex
+  .slider {
+
+    .wrapper {
+
+    }
+  }// slider
+  .userAction {
+
+    &__description {
+
+    }// __description
+    &__buttons {
+
+      .button {
+
+      }// button
+    }// __buttons
+  }// userAction
+  .mainHeader {
+
+  } // mainHeader
+  .tabs {
+
+    &:last-child {
+
+    }// :last-child
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+    &__iconSection {
+
+    }// __iconSection
+    &__headerSection {
+
+    }// __headerSection
+    &__description {
+
+    }// __description
+    &__line {
+
+    }// __line
+  }// tabs
+  .wrapperAbout {
+
+  }// wrapperAbout
+  .aboutSection {
+
+    &__header {
+
+      &-header {
+
+      }// -header
+      &-description {
+
+      }// -description
+    }// __header
+    &__items {
+
+      &-item {
+
+      }// -item
+    }// __items
+  }// aboutSection
+}
+@media screen and ( max-width: 420px ) {
+  h1 {
+    font-size: 24px;
+  }
+  h2 {
+
+  }
+  h3 {
+
+  }
+  .pink{}
+  .green{}
+  .blue{}
+  .lobsterGray{
+
+  }
+  .lobsterBlue{
+
+  }
+  .button{
+
+    & i{
+
+    }// i
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+  }// button
+  .mainWrapper{
+
+  }// main-wrapper
+  .wrapper{
+    padding: 0 10px;
+  }// wrapper
+  .social{
+
+    &__logo{
+
+    }// __logo
+    &__icons{
+
+      & ul{
+
+        & li{
+          & p{
+            font-size: 13px;
+          }
+        }// li
+      }// ul
+      & a{
+
+        &:hover {
+
+        }// hover
+      }// a
+    }// __icons
+  }// social
+  .navSection {
+
+  }//nav-section
+  .burgerMenu {
+
+    &:hover {
+
+    }// :hover
+    &__burgerMenuIcon {
+      padding-top: 0;
+    }//__burgerMenuIcon
+    &__burgerMenuItems {
+
+      & ul li a {
+
+        &:hover {
+
+        }// :hover
+      }// ul li a
+    }// __burgerMenuItems
+  }// burgerMenu
+  .horizontalMenu{
+
+    & li{
+      &:hover {
+
+      }// :hover
+      & a{
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// li
+  }// horizontalMenu
+  .sectionFlex {
+
+  }// sectionFlex
+  .slider {
+
+    .wrapper {
+
+    }
+  }// slider
+  .userAction {
+
+    &__description {
+      font-size: 12px;
+      line-height: 1.2;
+    }// __description
+    &__buttons {
+
+      .button {
+
+      }// button
+    }// __buttons
+  }// userAction
+  .mainHeader {
+
+  } // mainHeader
+  .tabs {
+    width: 320px;
+    &:last-child {
+
+    }// :last-child
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+    &__iconSection {
+
+    }// __iconSection
+    &__headerSection {
+
+    }// __headerSection
+    &__description {
+
+    }// __description
+    &__line {
+
+    }// __line
+  }// tabs
+  .wrapperAbout {
+
+  }// wrapperAbout
+  .aboutSection {
+
+    &__header {
+
+      &-header {
+
+      }// -header
+      &-description {
+
+      }// -description
+    }// __header
+    &__items {
+
+      &-item {
+
+      }// -item
+    }// __items
+  }// aboutSection
+}
+@media screen and ( max-width: 360px ) {
+  h1 {
+    font-size: 22px;
+  }
+  h2 {
+
+  }
+  h3 {
+
+  }
+  .pink{
+    & p:after{
+      font-size: 18px;
+      top: 2px;
+    }
+  }
+  .green{}
+  .blue{}
+  .lobsterGray{
+
+  }
+  .lobsterBlue{
+
+  }
+  .button{
+    font-size: 8px;
+    width: 110px;
+    line-height: 25px;
+    & i{
+
+    }// i
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+  }// button
+  .mainWrapper{
+
+  }// main-wrapper
+  .wrapper{
+
+  }// wrapper
+  .social{
+
+    &__logo{
+
+    }// __logo
+    &__icons{
+
+      & ul{
+
+        & li{
+          & p{
+            font-size: 8px;
+          }
+        }// li
+      }// ul
+      & a{
+
+        &:hover {
+
+        }// hover
+      }// a
+    }// __icons
+  }// social
+  .navSection {
+
+  }//nav-section
+  .burgerMenu {
+    font-size: 20px;
+    padding: 5px 5px;
+    margin-right: 5px;
+    &:hover {
+
+    }// :hover
+    &__burgerMenuIcon {
+
+    }//__burgerMenuIcon
+    &__burgerMenuItems {
+
+      & ul li a {
+
+        &:hover {
+
+        }// :hover
+      }// ul li a
+    }// __burgerMenuItems
+  }// burgerMenu
+  .horizontalMenu{
+
+    & li{
+      &:hover {
+
+      }// :hover
+      & a{
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// li
+  }// horizontalMenu
+  .sectionFlex {
+
+  }// sectionFlex
+  .slider {
+
+    .wrapper {
+
+    }
+  }// slider
+  .userAction {
+    position: relative;
+    width: 50%;
+    &__description {
+
+    }// __description
+    &__buttons {
+
+      .button {
+
+      }// button
+    }// __buttons
+  }// userAction
+  .mainHeader {
+
+  } // mainHeader
+  .tabs {
+    width: 300px;
+    padding: 20px 20px;
+    & h3{
+      font-size: 20px;
+    }
+    &:last-child {
+
+    }// :last-child
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+    &__iconSection {
+
+    }// __iconSection
+    &__headerSection {
+
+    }// __headerSection
+    &__description {
+
+    }// __description
+    &__line {
+
+    }// __line
+  }// tabs
+  .wrapperAbout {
+
+  }// wrapperAbout
+  .aboutSection {
+
+    &__header {
+
+      &-header {
+
+      }// -header
+      &-description {
+
+      }// -description
+    }// __header
+    &__items {
+
+      &-item {
+
+      }// -item
+    }// __items
+  }// aboutSection
+}
+@media screen and ( max-width: 320px ) {
+  h1 {
+
+  }
+  h2 {
+
+  }
+  h3 {
+
+  }
+  .pink{}
+  .green{}
+  .blue{}
+  .lobsterGray{
+
+  }
+  .lobsterBlue{
+
+  }
+  .button{
+
+    & i{
+
+    }// i
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+  }// button
+  .mainWrapper{
+    box-sizing: border-box;
+    width: 320px;
+  }// main-wrapper
+  .wrapper{
+    box-sizing: border-box;
+    width: 320px;
+  }// wrapper
+  .social{
+
+    &__logo{
+
+    }// __logo
+    &__icons{
+
+      & ul{
+
+        & li{
+
+        }// li
+      }// ul
+      & a{
+
+        &:hover {
+
+        }// hover
+      }// a
+    }// __icons
+  }// social
+  .navSection {
+
+  }//nav-section
+  .burgerMenu {
+
+    &:hover {
+
+    }// :hover
+    &__burgerMenuIcon {
+
+    }//__burgerMenuIcon
+    &__burgerMenuItems {
+
+      & ul li a {
+
+        &:hover {
+
+        }// :hover
+      }// ul li a
+    }// __burgerMenuItems
+  }// burgerMenu
+  .horizontalMenu{
+
+    & li{
+      &:hover {
+
+      }// :hover
+      & a{
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// li
+  }// horizontalMenu
+  .sectionFlex {
+
+  }// sectionFlex
+  .slider {
+
+    .wrapper {
+
+    }
+  }// slider
+  .userAction {
+
+    &__description {
+
+    }// __description
+    &__buttons {
+
+      .button {
+
+      }// button
+    }// __buttons
+  }// userAction
+  .mainHeader {
+
+  } // mainHeader
+  .tabs {
+
+    &:last-child {
+
+    }// :last-child
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+    &__iconSection {
+
+    }// __iconSection
+    &__headerSection {
+
+    }// __headerSection
+    &__description {
+
+    }// __description
+    &__line {
+
+    }// __line
+  }// tabs
+  .wrapperAbout {
+
+  }// wrapperAbout
+  .aboutSection {
+
+    &__header {
+
+      &-header {
+
+      }// -header
+      &-description {
+
+      }// -description
+    }// __header
+    &__items {
+
+      &-item {
+
+      }// -item
+    }// __items
+  }// aboutSection
+}

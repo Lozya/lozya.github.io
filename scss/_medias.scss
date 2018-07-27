@@ -161,6 +161,670 @@
       }// -item
     }// __items
   }// aboutSection
+
+
+  .headerSection {
+
+    &__header {
+
+    }// __header
+    &__description {
+
+    }// __description
+  }// headerSection
+  .itemsSection {
+
+    &__item {
+
+    }// __item
+  }// itemsSection
+  .calendarSection{
+
+  }// calendarSection
+  .calendarItems {
+
+  }// calendarItems
+  .seeAll {
+
+    & p {
+
+    }// p
+    &:hover p {
+
+    }// :hover p
+  }// seeAll
+  .calendarItem {
+
+    &:hover{
+
+    }// :hover
+    &__logo {
+
+    }// __logo
+    &__header{
+
+    }// __header
+    &__description {
+
+    }// __description
+    &__data{
+
+      & span{
+
+      }// span
+    }// __data
+  }// calendarItem
+  .videoSection{
+
+  }// videoSection
+  .videos {
+
+    &__item {
+
+      &:last-child {
+
+      }// :last-child
+    }// __item
+  }// videos
+  .video {
+
+  }// video
+  .videoDescription {
+
+  }// videoDescription
+  .news{
+
+  }// news
+  .newsItem {
+
+    &:hover{
+
+    }// :hover
+    &__text{
+
+    }// __text
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// newsItem
+  .wrapperItems {
+
+  }// wrapperItems
+  .volunteerSection {
+
+  }// volunteerSection
+  .volunteerBlock {
+
+    &__headerSml{
+
+    }// __headerSml
+    &__header{
+
+    }// __header
+    &__description{
+
+    }// __description
+    &__button{
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// volunteerBlock
+  .wrapperSlider {
+
+  }// wrapperSlider
+  .partnersSection {
+
+  }// partnersSection
+  .partnersSection {
+
+    & .wrapper {
+
+    }// .wrapper
+    &__scroll {
+
+      &:hover {
+
+      }// :hover
+    }// __scroll
+    &__slider {
+
+    }// __slider
+  }// partnersSection
+  #left {
+
+  }// #left
+  #right {
+
+  }// #right
+  .sliderItem {
+
+  }// sliderItem
+  .footerSection {
+
+    & .wrapper {
+
+    }// .wrapper
+  }// footerSection
+  .footer {
+
+  }// footer
+  .footerLogo{
+    &__img {
+
+      img {
+
+      }// img
+    }// __img
+    &__icons{
+
+      & ul{
+
+        & li{
+
+          & a{
+
+            &:hover{
+
+            }// :hover
+          }// a
+        }// li
+      }// ul
+    }// __icons
+  }// footerLogo
+  .flex{
+
+  }// flex
+  .footerSectionFlex {
+
+  }// footerSectionFlex
+  .separator {
+
+  }// separator
+  .siteLinks{
+    &__header{
+
+    }// __header
+    & ul li {
+
+      a {
+
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// ul li
+  }// siteLinks
+  .thick {
+
+  }// thick
+  .thin {
+
+  }// thin
+  .contactUs {
+
+    &__header{
+
+    }// __header
+    &__address {
+
+    }// __address
+    &__phone {
+
+    }// __phone
+  }// contactUs
+  .conIcon{
+
+  }// conIcon
+  .conInfo {
+
+    & p {
+
+    }// p
+  }// conInfo
+  .stayInf{
+    &__header{
+
+    }// __header
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// stayInf
+  .copyright {
+
+  }// copyright
+}
+@media screen and ( max-width: 1365px ) {
+  h1 {
+
+  }
+  h2 {
+
+  }
+  h3 {
+
+  }
+  .pink{}
+  .green{}
+  .blue{}
+  .lobsterGray{
+
+  }
+  .lobsterBlue{
+
+  }
+  .button{
+
+    & i{
+
+    }// i
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+  }// button
+  .mainWrapper{
+
+  }// main-wrapper
+  .wrapper{
+    padding-left: 15px;
+    padding-right: 15px;
+  }// wrapper
+  .social{
+
+    &__logo{
+
+    }// __logo
+    &__icons{
+
+      & ul{
+
+        & li{
+
+        }// li
+      }// ul
+      & a{
+
+        &:hover {
+
+        }// hover
+      }// a
+    }// __icons
+  }// social
+  .navSection {
+
+  }//nav-section
+  .burgerMenu {
+
+    &:hover {
+
+    }// :hover
+    &__burgerMenuIcon {
+
+    }//__burgerMenuIcon
+    &__burgerMenuItems {
+
+      & ul li a {
+
+        &:hover {
+
+        }// :hover
+      }// ul li a
+    }// __burgerMenuItems
+  }// burgerMenu
+  .horizontalMenu{
+
+    & li{
+      &:hover {
+
+      }// :hover
+      & a{
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// li
+  }// horizontalMenu
+  .sectionFlex {
+
+  }// sectionFlex
+  .slider {
+
+    .wrapper {
+
+    }
+  }// slider
+  .userAction {
+
+    &__description {
+
+    }// __description
+    &__buttons {
+
+      .button {
+
+      }// button
+    }// __buttons
+  }// userAction
+  .mainHeader {
+
+  } // mainHeader
+  .tabs {
+
+    &:last-child {
+
+    }// :last-child
+    &:hover {
+
+    }// :hover
+    &:active {
+
+    }// :active
+    &__iconSection {
+
+    }// __iconSection
+    &__headerSection {
+
+    }// __headerSection
+    &__description {
+
+    }// __description
+    &__line {
+
+    }// __line
+  }// tabs
+  .wrapperAbout {
+
+  }// wrapperAbout
+  .aboutSection {
+
+    &__header {
+
+      &-header {
+
+      }// -header
+      &-description {
+
+      }// -description
+    }// __header
+    &__items {
+
+      &-item {
+
+      }// -item
+    }// __items
+  }// aboutSection
+
+  .headerSection {
+
+    &__header {
+
+    }// __header
+    &__description {
+
+    }// __description
+  }// headerSection
+  .itemsSection {
+
+    &__item {
+
+    }// __item
+  }// itemsSection
+  .calendarSection{
+
+  }// calendarSection
+  .calendarItems {
+
+  }// calendarItems
+  .seeAll {
+
+    & p {
+
+    }// p
+    &:hover p {
+
+    }// :hover p
+  }// seeAll
+  .calendarItem {
+
+    &:hover{
+
+    }// :hover
+    &__logo {
+
+    }// __logo
+    &__header{
+
+    }// __header
+    &__description {
+
+    }// __description
+    &__data{
+
+      & span{
+
+      }// span
+    }// __data
+  }// calendarItem
+  .videoSection{
+
+  }// videoSection
+  .videos {
+
+    &__item {
+
+      &:last-child {
+
+      }// :last-child
+    }// __item
+  }// videos
+  .video {
+
+  }// video
+  .videoDescription {
+
+  }// videoDescription
+  .news{
+
+  }// news
+  .newsItem {
+
+    &:hover{
+
+    }// :hover
+    &__text{
+
+    }// __text
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// newsItem
+  .wrapperItems {
+
+  }// wrapperItems
+  .volunteerSection {
+
+  }// volunteerSection
+  .volunteerBlock {
+
+    &__headerSml{
+
+    }// __headerSml
+    &__header{
+
+    }// __header
+    &__description{
+
+    }// __description
+    &__button{
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// volunteerBlock
+  .wrapperSlider {
+
+  }// wrapperSlider
+  .partnersSection {
+
+  }// partnersSection
+  .partnersSection {
+
+    & .wrapper {
+
+    }// .wrapper
+    &__scroll {
+
+      &:hover {
+
+      }// :hover
+    }// __scroll
+    &__slider {
+      width: 777px;
+    }// __slider
+  }// partnersSection
+  #slider{
+    width: 777px;
+  }
+  #left {
+
+  }// #left
+  #right {
+
+  }// #right
+  .sliderItem {
+
+  }// sliderItem
+  .footerSection {
+
+    & .wrapper {
+
+    }// .wrapper
+  }// footerSection
+  .footer {
+
+  }// footer
+  .footerLogo{
+    &__img {
+
+      img {
+
+      }// img
+    }// __img
+    &__icons{
+
+      & ul{
+
+        & li{
+
+          & a{
+
+            &:hover{
+
+            }// :hover
+          }// a
+        }// li
+      }// ul
+    }// __icons
+  }// footerLogo
+  .flex{
+
+  }// flex
+  .footerSectionFlex {
+
+  }// footerSectionFlex
+  .separator {
+
+  }// separator
+  .siteLinks{
+    &__header{
+
+    }// __header
+    & ul li {
+
+      a {
+
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// ul li
+  }// siteLinks
+  .thick {
+
+  }// thick
+  .thin {
+
+  }// thin
+  .contactUs {
+
+    &__header{
+
+    }// __header
+    &__address {
+
+    }// __address
+    &__phone {
+
+    }// __phone
+  }// contactUs
+  .conIcon{
+
+  }// conIcon
+  .conInfo {
+
+    & p {
+
+    }// p
+  }// conInfo
+  .stayInf{
+    &__header{
+
+    }// __header
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// stayInf
+  .copyright {
+
+  }// copyright
 }
 @media screen and ( max-width: 1200px ){
   h1 {
@@ -325,6 +989,256 @@
       }// -item
     }// __items
   }// aboutSection
+
+  .headerSection {
+
+    &__header {
+
+    }// __header
+    &__description {
+
+    }// __description
+  }// headerSection
+  .itemsSection {
+
+    &__item {
+
+    }// __item
+  }// itemsSection
+  .calendarSection{
+
+  }// calendarSection
+  .calendarItems {
+
+  }// calendarItems
+  .seeAll {
+
+    & p {
+
+    }// p
+    &:hover p {
+
+    }// :hover p
+  }// seeAll
+  .calendarItem {
+
+    &:hover{
+
+    }// :hover
+    &__logo {
+
+    }// __logo
+    &__header{
+
+    }// __header
+    &__description {
+
+    }// __description
+    &__data{
+
+      & span{
+
+      }// span
+    }// __data
+  }// calendarItem
+  .videoSection{
+
+  }// videoSection
+  .videos {
+    width: 100%;
+    &__item {
+      width: 50%;
+      &:last-child {
+
+      }// :last-child
+    }// __item
+  }// videos
+  .video {
+    width: auto;
+    height: 30vw;
+  }// video
+  .videoDescription {
+
+  }// videoDescription
+  .news{
+
+  }// news
+  .newsItem {
+
+    &:hover{
+
+    }// :hover
+    &__text{
+
+    }// __text
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// newsItem
+  .wrapperItems {
+
+  }// wrapperItems
+  .volunteerSection {
+
+  }// volunteerSection
+  .volunteerBlock {
+
+    &__headerSml{
+
+    }// __headerSml
+    &__header{
+
+    }// __header
+    &__description{
+
+    }// __description
+    &__button{
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// volunteerBlock
+  .wrapperSlider {
+
+  }// wrapperSlider
+  .partnersSection {
+
+  }// partnersSection
+  .partnersSection {
+
+    & .wrapper {
+      padding-left: 0;
+      padding-right: 0;
+    }// .wrapper
+    &__scroll {
+
+      &:hover {
+
+      }// :hover
+    }// __scroll
+    &__slider {
+
+    }// __slider
+  }// partnersSection
+  #left {
+
+  }// #left
+  #right {
+
+  }// #right
+  .sliderItem {
+
+  }// sliderItem
+  .footerSection {
+
+    & .wrapper {
+
+    }// .wrapper
+  }// footerSection
+  .footer {
+
+  }// footer
+  .footerLogo{
+    &__img {
+
+      img {
+
+      }// img
+    }// __img
+    &__icons{
+
+      & ul{
+
+        & li{
+
+          & a{
+
+            &:hover{
+
+            }// :hover
+          }// a
+        }// li
+      }// ul
+    }// __icons
+  }// footerLogo
+  .flex{
+
+  }// flex
+  .footerSectionFlex {
+
+  }// footerSectionFlex
+  .separator {
+
+  }// separator
+  .siteLinks{
+    &__header{
+
+    }// __header
+    & ul li {
+
+      a {
+
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// ul li
+  }// siteLinks
+  .thick {
+
+  }// thick
+  .thin {
+
+  }// thin
+  .contactUs {
+
+    &__header{
+
+    }// __header
+    &__address {
+
+    }// __address
+    &__phone {
+
+    }// __phone
+  }// contactUs
+  .conIcon{
+
+  }// conIcon
+  .conInfo {
+
+    & p {
+
+    }// p
+  }// conInfo
+  .stayInf{
+    &__header{
+
+    }// __header
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// stayInf
+  .copyright {
+
+  }// copyright
 }
 @media screen and ( max-width: 1150px ) {
   h1 {
@@ -493,6 +1407,273 @@
       }// -item
     }// __items
   }// aboutSection
+
+  .headerSection {
+
+    &__header {
+
+    }// __header
+    &__description {
+
+    }// __description
+  }// headerSection
+  .itemsSection {
+
+    &__item {
+
+    }// __item
+  }// itemsSection
+  .calendarSection{
+
+  }// calendarSection
+  .calendarItems {
+    align-items: stretch;
+  }// calendarItems
+  .seeAll {
+
+    & p {
+
+    }// p
+    &:hover p {
+
+    }// :hover p
+  }// seeAll
+  .calendarItem {
+
+    &:hover{
+
+    }// :hover
+    &__img{
+      & img{
+        width: 30vw;
+        height: auto;
+      }
+    }
+    &__logo {
+      margin: -25px 0 5px 0;
+      & img {
+        width: 50px;
+        height: 50px;
+      }
+    }// __logo
+    &__header{
+      font-size: 22px;
+      margin-bottom: 10px;
+    }// __header
+    &__description {
+      font-size: 14px;
+      line-height: 1.5;
+      margin-bottom: 10px;
+    }// __description
+    &__data{
+      font-size: 14px;
+      margin-bottom: 10px;
+      & span{
+
+      }// span
+    }// __data
+  }// calendarItem
+  .videoSection{
+
+  }// videoSection
+  .videos {
+
+    &__item {
+
+      &:last-child {
+
+      }// :last-child
+    }// __item
+  }// videos
+  .video {
+
+  }// video
+  .videoDescription {
+
+  }// videoDescription
+  .news{
+    align-items: stretch;
+  }// news
+  .newsItem {
+    width: 30vw;
+    height: auto;
+    &:hover{
+
+    }// :hover
+    &__text{
+
+    }// __text
+    &__button {
+      font-size: 14px;
+      font-weight: 400;
+      margin-bottom: 10px;
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// newsItem
+  .wrapperItems {
+    padding: 20px;
+    padding-bottom: 0;
+    justify-content: flex-start;
+  }// wrapperItems
+  .volunteerSection {
+
+  }// volunteerSection
+  .volunteerBlock {
+
+    &__headerSml{
+
+    }// __headerSml
+    &__header{
+
+    }// __header
+    &__description{
+
+    }// __description
+    &__button{
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// volunteerBlock
+  .wrapperSlider {
+
+  }// wrapperSlider
+  .partnersSection {
+
+  }// partnersSection
+  .partnersSection {
+
+    & .wrapper {
+
+    }// .wrapper
+    &__scroll {
+
+      &:hover {
+
+      }// :hover
+    }// __scroll
+    &__slider {
+
+    }// __slider
+  }// partnersSection
+  #left {
+
+  }// #left
+  #right {
+
+  }// #right
+  .sliderItem {
+
+  }// sliderItem
+  .footerSection {
+
+    & .wrapper {
+
+    }// .wrapper
+  }// footerSection
+  .footer {
+
+  }// footer
+  .footerLogo{
+    &__img {
+
+      img {
+
+      }// img
+    }// __img
+    &__icons{
+
+      & ul{
+
+        & li{
+
+          & a{
+
+            &:hover{
+
+            }// :hover
+          }// a
+        }// li
+      }// ul
+    }// __icons
+  }// footerLogo
+  .flex{
+
+  }// flex
+  .footerSectionFlex {
+
+  }// footerSectionFlex
+  .separator {
+
+  }// separator
+  .siteLinks{
+    &__header{
+
+    }// __header
+    & ul li {
+
+      a {
+
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// ul li
+  }// siteLinks
+  .thick {
+
+  }// thick
+  .thin {
+
+  }// thin
+  .contactUs {
+
+    &__header{
+
+    }// __header
+    &__address {
+
+    }// __address
+    &__phone {
+
+    }// __phone
+  }// contactUs
+  .conIcon{
+
+  }// conIcon
+  .conInfo {
+
+    & p {
+
+    }// p
+  }// conInfo
+  .stayInf{
+    &__header{
+
+    }// __header
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// stayInf
+  .copyright {
+
+  }// copyright
 }
 @media screen and ( max-width: 1024px ) {
   h1 {
@@ -665,6 +1846,258 @@
       }// -item
     }// __items
   }// aboutSection
+
+  .headerSection {
+
+    &__header {
+
+    }// __header
+    &__description {
+
+    }// __description
+  }// headerSection
+  .itemsSection {
+
+    &__item {
+
+    }// __item
+  }// itemsSection
+  .calendarSection{
+
+  }// calendarSection
+  .calendarItems {
+
+  }// calendarItems
+  .seeAll {
+
+    & p {
+
+    }// p
+    &:hover p {
+
+    }// :hover p
+  }// seeAll
+  .calendarItem {
+
+    &:hover{
+
+    }// :hover
+    &__logo {
+
+    }// __logo
+    &__header{
+
+    }// __header
+    &__description {
+
+    }// __description
+    &__data{
+
+      & span{
+
+      }// span
+    }// __data
+  }// calendarItem
+  .videoSection{
+
+  }// videoSection
+  .videos {
+
+    &__item {
+
+      &:last-child {
+
+      }// :last-child
+    }// __item
+  }// videos
+  .video {
+
+  }// video
+  .videoDescription {
+
+  }// videoDescription
+  .news{
+
+  }// news
+  .newsItem {
+
+    &:hover{
+
+    }// :hover
+    &__text{
+
+    }// __text
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// newsItem
+  .wrapperItems {
+
+  }// wrapperItems
+  .volunteerSection {
+
+  }// volunteerSection
+  .volunteerBlock {
+
+    &__headerSml{
+
+    }// __headerSml
+    &__header{
+
+    }// __header
+    &__description{
+
+    }// __description
+    &__button{
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// volunteerBlock
+  .wrapperSlider {
+
+  }// wrapperSlider
+  .partnersSection {
+
+  }// partnersSection
+  .partnersSection {
+
+    & .wrapper {
+
+    }// .wrapper
+    &__scroll {
+
+      &:hover {
+
+      }// :hover
+    }// __scroll
+    &__slider {
+
+    }// __slider
+  }// partnersSection
+  #slider{
+    width: 510px;
+  }
+  #left {
+
+  }// #left
+  #right {
+
+  }// #right
+  .sliderItem {
+
+  }// sliderItem
+  .footerSection {
+
+    & .wrapper {
+
+    }// .wrapper
+  }// footerSection
+  .footer {
+
+  }// footer
+  .footerLogo{
+    &__img {
+
+      img {
+
+      }// img
+    }// __img
+    &__icons{
+
+      & ul{
+
+        & li{
+
+          & a{
+
+            &:hover{
+
+            }// :hover
+          }// a
+        }// li
+      }// ul
+    }// __icons
+  }// footerLogo
+  .flex{
+
+  }// flex
+  .footerSectionFlex {
+
+  }// footerSectionFlex
+  .separator {
+
+  }// separator
+  .siteLinks{
+    &__header{
+
+    }// __header
+    & ul li {
+
+      a {
+
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// ul li
+  }// siteLinks
+  .thick {
+
+  }// thick
+  .thin {
+
+  }// thin
+  .contactUs {
+
+    &__header{
+
+    }// __header
+    &__address {
+
+    }// __address
+    &__phone {
+
+    }// __phone
+  }// contactUs
+  .conIcon{
+
+  }// conIcon
+  .conInfo {
+
+    & p {
+
+    }// p
+  }// conInfo
+  .stayInf{
+    &__header{
+
+    }// __header
+    &__button {
+      font-size: 14px;
+      width: 190px;
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// stayInf
+  .copyright {
+
+  }// copyright
 }
 @media screen and ( max-width: 860px ) {
   h1 {
@@ -839,6 +2272,256 @@
       }// -item
     }// __items
   }// aboutSection
+
+  .headerSection {
+
+    &__header {
+
+    }// __header
+    &__description {
+
+    }// __description
+  }// headerSection
+  .itemsSection {
+
+    &__item {
+
+    }// __item
+  }// itemsSection
+  .calendarSection{
+
+  }// calendarSection
+  .calendarItems {
+
+  }// calendarItems
+  .seeAll {
+
+    & p {
+
+    }// p
+    &:hover p {
+
+    }// :hover p
+  }// seeAll
+  .calendarItem {
+
+    &:hover{
+
+    }// :hover
+    &__logo {
+
+    }// __logo
+    &__header{
+
+    }// __header
+    &__description {
+
+    }// __description
+    &__data{
+
+      & span{
+
+      }// span
+    }// __data
+  }// calendarItem
+  .videoSection{
+
+  }// videoSection
+  .videos {
+
+    &__item {
+
+      &:last-child {
+
+      }// :last-child
+    }// __item
+  }// videos
+  .video {
+
+  }// video
+  .videoDescription {
+
+  }// videoDescription
+  .news{
+
+  }// news
+  .newsItem {
+
+    &:hover{
+
+    }// :hover
+    &__text{
+
+    }// __text
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// newsItem
+  .wrapperItems {
+
+  }// wrapperItems
+  .volunteerSection {
+
+  }// volunteerSection
+  .volunteerBlock {
+
+    &__headerSml{
+
+    }// __headerSml
+    &__header{
+
+    }// __header
+    &__description{
+
+    }// __description
+    &__button{
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// volunteerBlock
+  .wrapperSlider {
+
+  }// wrapperSlider
+  .partnersSection {
+
+  }// partnersSection
+  .partnersSection {
+
+    & .wrapper {
+
+    }// .wrapper
+    &__scroll {
+
+      &:hover {
+
+      }// :hover
+    }// __scroll
+    &__slider {
+
+    }// __slider
+  }// partnersSection
+  #left {
+
+  }// #left
+  #right {
+
+  }// #right
+  .sliderItem {
+
+  }// sliderItem
+  .footerSection {
+
+    & .wrapper {
+
+    }// .wrapper
+  }// footerSection
+  .footer {
+
+  }// footer
+  .footerLogo{
+    &__img {
+
+      img {
+        width: 30vw;
+        height: auto;
+      }// img
+    }// __img
+    &__icons{
+
+      & ul{
+
+        & li{
+
+          & a{
+
+            &:hover{
+
+            }// :hover
+          }// a
+        }// li
+      }// ul
+    }// __icons
+  }// footerLogo
+  .flex{
+
+  }// flex
+  .footerSectionFlex {
+
+  }// footerSectionFlex
+  .separator {
+
+  }// separator
+  .siteLinks{
+    &__header{
+
+    }// __header
+    & ul li {
+
+      a {
+
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// ul li
+  }// siteLinks
+  .thick {
+
+  }// thick
+  .thin {
+    width: 50px;
+  }// thin
+  .contactUs {
+
+    &__header{
+
+    }// __header
+    &__address {
+
+    }// __address
+    &__phone {
+
+    }// __phone
+  }// contactUs
+  .conIcon{
+
+  }// conIcon
+  .conInfo {
+
+    & p {
+
+    }// p
+  }// conInfo
+  .stayInf{
+    &__header{
+
+    }// __header
+    &__button {
+      font-size: 12px;
+      width: 170px;
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// stayInf
+  .copyright {
+
+  }// copyright
 }
 @media screen and ( max-width: 768px ) {
   h1 {
@@ -1023,6 +2706,288 @@
       }// -item
     }// __items
   }// aboutSection
+
+  .headerSection {
+
+    &__header {
+
+    }// __header
+    &__description {
+      margin-bottom: 15px;
+    }// __description
+  }// headerSection
+  .itemsSection {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    &__item {
+
+    }// __item
+  }// itemsSection
+  .calendarSection{
+
+  }// calendarSection
+  .calendarItems {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }// calendarItems
+  .seeAll {
+    align-self: center;
+    margin-top: 0;
+    & p {
+
+    }// p
+    &:hover p {
+
+    }// :hover p
+  }// seeAll
+  .calendarItem {
+    width: 362px;
+    height: 584px;
+    margin-bottom: 20px;
+    &:hover{
+
+    }// :hover
+    &__img{
+      img{
+        width: 362px;
+        height: auto;
+      }
+    }
+    &__logo {
+      margin: 0;
+      margin-top: -66px;
+      img{
+        width: auto;
+        height: auto;
+      }
+    }// __logo
+    &__header{
+      font-size: 24px;
+      margin-bottom: 0;
+    }// __header
+    &__description {
+      font-size: 16px;
+      line-height: 1.5;
+      margin-bottom: 0px;
+    }// __description
+    &__data{
+      font-size: 15px;
+      margin-bottom: 0px;
+      & span{
+
+      }// span
+    }// __data
+  }// calendarItem
+  .videoSection{
+
+  }// videoSection
+  .videos {
+    flex-direction: column;
+    &__item {
+      width: 100%;
+      margin-bottom: 20px;
+      &:last-child {
+
+      }// :last-child
+    }// __item
+  }// videos
+  .video {
+    height: 54vw;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }// video
+  .videoDescription {
+
+  }// videoDescription
+  .news{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }// news
+  .newsItem {
+    width: 362px;
+    height: 584px;
+    margin-bottom: 20px;
+    &:hover{
+
+    }// :hover
+    &__text{
+
+    }// __text
+    &__button {
+      font-size: 14px;
+      font-weight: 400;
+      margin-bottom: 10px;
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// newsItem
+  .wrapperItems {
+    padding: 30px 32px 30px 57px;
+    height: 100%;
+    align-items: flex-start;
+    justify-content: space-between;
+  }// wrapperItems
+  .volunteerSection {
+
+  }// volunteerSection
+  .volunteerBlock {
+
+    &__headerSml{
+
+    }// __headerSml
+    &__header{
+
+    }// __header
+    &__description{
+
+    }// __description
+    &__button{
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// volunteerBlock
+  .wrapperSlider {
+
+  }// wrapperSlider
+  .partnersSection {
+
+  }// partnersSection
+  .partnersSection {
+
+    & .wrapper {
+
+    }// .wrapper
+    &__scroll {
+
+      &:hover {
+
+      }// :hover
+    }// __scroll
+    &__slider {
+
+    }// __slider
+  }// partnersSection
+  #left {
+
+  }// #left
+  #right {
+
+  }// #right
+  .sliderItem {
+
+  }// sliderItem
+  .footerSection {
+
+    & .wrapper {
+
+    }// .wrapper
+  }// footerSection
+  .footer {
+
+  }// footer
+  .footerLogo{
+    &__img {
+
+      img {
+
+      }// img
+    }// __img
+    &__icons{
+
+      & ul{
+
+        & li{
+
+          & a{
+
+            &:hover{
+
+            }// :hover
+          }// a
+        }// li
+      }// ul
+    }// __icons
+  }// footerLogo
+  .flex{
+
+  }// flex
+  .footerSectionFlex {
+
+  }// footerSectionFlex
+  .separator {
+
+  }// separator
+  .siteLinks{
+    &__header{
+
+    }// __header
+    & ul li {
+
+      a {
+
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// ul li
+  }// siteLinks
+  .thick {
+
+  }// thick
+  .thin {
+
+  }// thin
+  .contactUs {
+
+    &__header{
+
+    }// __header
+    &__address {
+
+    }// __address
+    &__phone {
+
+    }// __phone
+  }// contactUs
+  .conIcon{
+
+  }// conIcon
+  .conInfo {
+
+    & p {
+
+    }// p
+  }// conInfo
+  .stayInf{
+    &__header{
+
+    }// __header
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// stayInf
+  .copyright {
+
+  }// copyright
 }
 @media screen and ( max-width: 700px ) {
   h1 {
@@ -1186,6 +3151,276 @@
       }// -item
     }// __items
   }// aboutSection
+
+  .headerSection {
+
+    &__header {
+
+    }// __header
+    &__description {
+
+    }// __description
+  }// headerSection
+  .itemsSection {
+
+    &__item {
+
+    }// __item
+  }// itemsSection
+  .calendarSection{
+
+  }// calendarSection
+  .calendarItems {
+
+  }// calendarItems
+  .seeAll {
+
+    & p {
+
+    }// p
+    &:hover p {
+
+    }// :hover p
+  }// seeAll
+  .calendarItem {
+
+    &:hover{
+
+    }// :hover
+    &__logo {
+
+    }// __logo
+    &__header{
+
+    }// __header
+    &__description {
+
+    }// __description
+    &__data{
+
+      & span{
+
+      }// span
+    }// __data
+  }// calendarItem
+  .videoSection{
+
+  }// videoSection
+  .videos {
+
+    &__item {
+
+      &:last-child {
+
+      }// :last-child
+    }// __item
+  }// videos
+  .video {
+
+  }// video
+  .videoDescription {
+
+  }// videoDescription
+  .news{
+
+  }// news
+  .newsItem {
+
+    &:hover{
+
+    }// :hover
+    &__text{
+
+    }// __text
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// newsItem
+  .wrapperItems {
+
+  }// wrapperItems
+  .volunteerSection {
+
+  }// volunteerSection
+  .volunteerBlock {
+
+    &__headerSml{
+
+    }// __headerSml
+    &__header{
+
+    }// __header
+    &__description{
+
+    }// __description
+    &__button{
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// volunteerBlock
+  .wrapperSlider {
+
+  }// wrapperSlider
+  .partnersSection {
+
+  }// partnersSection
+  .partnersSection {
+
+    & .wrapper {
+
+    }// .wrapper
+    &__scroll {
+
+      &:hover {
+
+      }// :hover
+    }// __scroll
+    &__slider {
+
+    }// __slider
+  }// partnersSection
+  #slider{
+    width: 245px;
+  }
+  #left {
+
+  }// #left
+  #right {
+
+  }// #right
+  .sliderItem {
+
+  }// sliderItem
+  .footerSection {
+    height: auto;
+    & .wrapper {
+
+    }// .wrapper
+  }// footerSection
+  .footer {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }// footer
+  .footerLogo{
+    padding-bottom: 10px;
+    margin: 0 0 20px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    &__img {
+      margin-bottom: 20px;
+      width: fit-content;
+      img {
+        width: 70vw;
+        height: auto;
+      }// img
+    }// __img
+    &__icons{
+
+      & ul{
+
+        & li{
+
+          & a{
+
+            &:hover{
+
+            }// :hover
+          }// a
+        }// li
+      }// ul
+    }// __icons
+  }// footerLogo
+  .flex{
+
+  }// flex
+  .footerSectionFlex {
+    justify-content: center;
+    align-items: center;
+  }// footerSectionFlex
+  .separator {
+    display: none;
+  }// separator
+  .siteLinks{
+    padding: 0 60px 10px 60px;
+    margin: 0 0 20px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    &__header{
+      align-self: center;
+      margin-bottom: 15px;
+    }// __header
+    & ul li {
+
+      a {
+
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// ul li
+  }// siteLinks
+  .thick {
+
+  }// thick
+  .thin {
+
+  }// thin
+  .contactUs {
+    padding-bottom: 10px;
+    margin: 0 0 20px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    align-items: flex-start;
+    flex-basis: auto;
+    &__header{
+      align-self: center;
+      margin-bottom: 15px;
+    }// __header
+    &__address {
+
+    }// __address
+    &__phone {
+
+    }// __phone
+  }// contactUs
+  .conIcon{
+
+  }// conIcon
+  .conInfo {
+
+    & p {
+
+    }// p
+  }// conInfo
+  .stayInf{
+    text-align: center;
+    &__header{
+      align-self: center;
+      margin-bottom: 15px;
+    }// __header
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// stayInf
+  .copyright {
+
+  }// copyright
 }
 @media screen and ( max-width: 640px ) {
   h1 {
@@ -1354,6 +3589,256 @@
       }// -item
     }// __items
   }// aboutSection
+
+  .headerSection {
+
+    &__header {
+
+    }// __header
+    &__description {
+
+    }// __description
+  }// headerSection
+  .itemsSection {
+
+    &__item {
+
+    }// __item
+  }// itemsSection
+  .calendarSection{
+
+  }// calendarSection
+  .calendarItems {
+
+  }// calendarItems
+  .seeAll {
+
+    & p {
+
+    }// p
+    &:hover p {
+
+    }// :hover p
+  }// seeAll
+  .calendarItem {
+
+    &:hover{
+
+    }// :hover
+    &__logo {
+
+    }// __logo
+    &__header{
+
+    }// __header
+    &__description {
+
+    }// __description
+    &__data{
+
+      & span{
+
+      }// span
+    }// __data
+  }// calendarItem
+  .videoSection{
+
+  }// videoSection
+  .videos {
+
+    &__item {
+
+      &:last-child {
+
+      }// :last-child
+    }// __item
+  }// videos
+  .video {
+
+  }// video
+  .videoDescription {
+
+  }// videoDescription
+  .news{
+
+  }// news
+  .newsItem {
+
+    &:hover{
+
+    }// :hover
+    &__text{
+
+    }// __text
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// newsItem
+  .wrapperItems {
+
+  }// wrapperItems
+  .volunteerSection {
+
+  }// volunteerSection
+  .volunteerBlock {
+    width: 320px;
+    height: 341px;
+    padding: 30px;
+    &__headerSml{
+      font-size: 28px;
+    }// __headerSml
+    &__header{
+      font-size: 40px;
+    }// __header
+    &__description{
+
+    }// __description
+    &__button{
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// volunteerBlock
+  .wrapperSlider {
+
+  }// wrapperSlider
+  .partnersSection {
+
+  }// partnersSection
+  .partnersSection {
+
+    & .wrapper {
+
+    }// .wrapper
+    &__scroll {
+
+      &:hover {
+
+      }// :hover
+    }// __scroll
+    &__slider {
+
+    }// __slider
+  }// partnersSection
+  #left {
+
+  }// #left
+  #right {
+
+  }// #right
+  .sliderItem {
+
+  }// sliderItem
+  .footerSection {
+
+    & .wrapper {
+
+    }// .wrapper
+  }// footerSection
+  .footer {
+
+  }// footer
+  .footerLogo{
+    &__img {
+
+      img {
+
+      }// img
+    }// __img
+    &__icons{
+
+      & ul{
+
+        & li{
+
+          & a{
+
+            &:hover{
+
+            }// :hover
+          }// a
+        }// li
+      }// ul
+    }// __icons
+  }// footerLogo
+  .flex{
+
+  }// flex
+  .footerSectionFlex {
+
+  }// footerSectionFlex
+  .separator {
+
+  }// separator
+  .siteLinks{
+    &__header{
+
+    }// __header
+    & ul li {
+
+      a {
+
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// ul li
+  }// siteLinks
+  .thick {
+
+  }// thick
+  .thin {
+
+  }// thin
+  .contactUs {
+
+    &__header{
+
+    }// __header
+    &__address {
+
+    }// __address
+    &__phone {
+
+    }// __phone
+  }// contactUs
+  .conIcon{
+
+  }// conIcon
+  .conInfo {
+
+    & p {
+
+    }// p
+  }// conInfo
+  .stayInf{
+    &__header{
+
+    }// __header
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// stayInf
+  .copyright {
+
+  }// copyright
 }
 @media screen and ( max-width: 600px ) {
   h1 {
@@ -1518,6 +4003,254 @@
       }// -item
     }// __items
   }// aboutSection
+
+  .headerSection {
+
+    &__header {
+
+    }// __header
+    &__description {
+
+    }// __description
+  }// headerSection
+  .itemsSection {
+
+    &__item {
+
+    }// __item
+  }// itemsSection
+  .calendarSection{
+
+  }// calendarSection
+  .calendarItems {
+
+  }// calendarItems
+  .seeAll {
+
+    & p {
+
+    }// p
+    &:hover p {
+
+    }// :hover p
+  }// seeAll
+  .calendarItem {
+
+    &:hover{
+
+    }// :hover
+    &__logo {
+
+    }// __logo
+    &__header{
+
+    }// __header
+    &__description {
+
+    }// __description
+    &__data{
+
+      & span{
+
+      }// span
+    }// __data
+  }// calendarItem
+  .videoSection{
+
+  }// videoSection
+  .videos {
+
+    &__item {
+
+      &:last-child {
+
+      }// :last-child
+    }// __item
+  }// videos
+  .video {
+
+  }// video
+  .videoDescription {
+
+  }// videoDescription
+  .news{
+
+  }// news
+  .newsItem {
+
+    &:hover{
+
+    }// :hover
+    &__text{
+
+    }// __text
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// newsItem
+  .wrapperItems {
+
+  }// wrapperItems
+  .volunteerSection {
+
+  }// volunteerSection
+  .volunteerBlock {
+
+    &__headerSml{
+
+    }// __headerSml
+    &__header{
+
+    }// __header
+    &__description{
+
+    }// __description
+    &__button{
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// volunteerBlock
+  .wrapperSlider {
+
+  }// wrapperSlider
+  .partnersSection {
+
+  }// partnersSection
+  .partnersSection {
+
+    & .wrapper {
+
+    }// .wrapper
+    &__scroll {
+
+      &:hover {
+
+      }// :hover
+    }// __scroll
+    &__slider {
+
+    }// __slider
+  }// partnersSection
+  #left {
+
+  }// #left
+  #right {
+
+  }// #right
+  .sliderItem {
+
+  }// sliderItem
+  .footerSection {
+
+    & .wrapper {
+
+    }// .wrapper
+  }// footerSection
+  .footer {
+
+  }// footer
+  .footerLogo{
+    &__img {
+
+      img {
+
+      }// img
+    }// __img
+    &__icons{
+
+      & ul{
+
+        & li{
+
+          & a{
+
+            &:hover{
+
+            }// :hover
+          }// a
+        }// li
+      }// ul
+    }// __icons
+  }// footerLogo
+  .flex{
+
+  }// flex
+  .footerSectionFlex {
+
+  }// footerSectionFlex
+  .separator {
+
+  }// separator
+  .siteLinks{
+    &__header{
+
+    }// __header
+    & ul li {
+
+      a {
+
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// ul li
+  }// siteLinks
+  .thick {
+
+  }// thick
+  .thin {
+
+  }// thin
+  .contactUs {
+
+    &__header{
+
+    }// __header
+    &__address {
+
+    }// __address
+    &__phone {
+
+    }// __phone
+  }// contactUs
+  .conIcon{
+
+  }// conIcon
+  .conInfo {
+
+    & p {
+
+    }// p
+  }// conInfo
+  .stayInf{
+    &__header{
+
+    }// __header
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// stayInf
+  .copyright {
+
+  }// copyright
 }
 @media screen and ( max-width: 500px ) {
   h1 {
@@ -1697,6 +4430,254 @@
       }// -item
     }// __items
   }// aboutSection
+
+  .headerSection {
+
+    &__header {
+
+    }// __header
+    &__description {
+
+    }// __description
+  }// headerSection
+  .itemsSection {
+
+    &__item {
+
+    }// __item
+  }// itemsSection
+  .calendarSection{
+
+  }// calendarSection
+  .calendarItems {
+
+  }// calendarItems
+  .seeAll {
+
+    & p {
+
+    }// p
+    &:hover p {
+
+    }// :hover p
+  }// seeAll
+  .calendarItem {
+
+    &:hover{
+
+    }// :hover
+    &__logo {
+
+    }// __logo
+    &__header{
+
+    }// __header
+    &__description {
+
+    }// __description
+    &__data{
+
+      & span{
+
+      }// span
+    }// __data
+  }// calendarItem
+  .videoSection{
+
+  }// videoSection
+  .videos {
+
+    &__item {
+
+      &:last-child {
+
+      }// :last-child
+    }// __item
+  }// videos
+  .video {
+
+  }// video
+  .videoDescription {
+
+  }// videoDescription
+  .news{
+
+  }// news
+  .newsItem {
+
+    &:hover{
+
+    }// :hover
+    &__text{
+
+    }// __text
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// newsItem
+  .wrapperItems {
+
+  }// wrapperItems
+  .volunteerSection {
+
+  }// volunteerSection
+  .volunteerBlock {
+
+    &__headerSml{
+
+    }// __headerSml
+    &__header{
+
+    }// __header
+    &__description{
+
+    }// __description
+    &__button{
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// volunteerBlock
+  .wrapperSlider {
+
+  }// wrapperSlider
+  .partnersSection {
+
+  }// partnersSection
+  .partnersSection {
+
+    & .wrapper {
+
+    }// .wrapper
+    &__scroll {
+
+      &:hover {
+
+      }// :hover
+    }// __scroll
+    &__slider {
+
+    }// __slider
+  }// partnersSection
+  #left {
+
+  }// #left
+  #right {
+
+  }// #right
+  .sliderItem {
+
+  }// sliderItem
+  .footerSection {
+
+    & .wrapper {
+
+    }// .wrapper
+  }// footerSection
+  .footer {
+
+  }// footer
+  .footerLogo{
+    &__img {
+
+      img {
+
+      }// img
+    }// __img
+    &__icons{
+
+      & ul{
+
+        & li{
+
+          & a{
+
+            &:hover{
+
+            }// :hover
+          }// a
+        }// li
+      }// ul
+    }// __icons
+  }// footerLogo
+  .flex{
+
+  }// flex
+  .footerSectionFlex {
+
+  }// footerSectionFlex
+  .separator {
+
+  }// separator
+  .siteLinks{
+    &__header{
+
+    }// __header
+    & ul li {
+
+      a {
+
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// ul li
+  }// siteLinks
+  .thick {
+
+  }// thick
+  .thin {
+
+  }// thin
+  .contactUs {
+
+    &__header{
+
+    }// __header
+    &__address {
+
+    }// __address
+    &__phone {
+
+    }// __phone
+  }// contactUs
+  .conIcon{
+
+  }// conIcon
+  .conInfo {
+
+    & p {
+
+    }// p
+  }// conInfo
+  .stayInf{
+    &__header{
+
+    }// __header
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// stayInf
+  .copyright {
+
+  }// copyright
 }
 @media screen and ( max-width: 420px ) {
   h1 {
@@ -1863,6 +4844,270 @@
       }// -item
     }// __items
   }// aboutSection
+
+  .headerSection {
+
+    &__header {
+
+    }// __header
+    &__description {
+
+    }// __description
+  }// headerSection
+  .itemsSection {
+
+    &__item {
+
+    }// __item
+  }// itemsSection
+  .calendarSection{
+
+  }// calendarSection
+  .calendarItems {
+
+  }// calendarItems
+  .seeAll {
+
+    & p {
+
+    }// p
+    &:hover p {
+
+    }// :hover p
+  }// seeAll
+  .calendarItem {
+    width: 320px;
+    height: 564px;
+    margin-bottom: 15px;
+    &__img{
+      img{
+        width: 320px;
+      }
+    }
+    &:hover{
+
+    }// :hover
+    &__logo {
+
+    }// __logo
+    &__header{
+
+    }// __header
+    &__description {
+
+    }// __description
+    &__data{
+
+      & span{
+
+      }// span
+    }// __data
+  }// calendarItem
+  .videoSection{
+
+  }// videoSection
+  .videos {
+
+    &__item {
+
+      &:last-child {
+
+      }// :last-child
+    }// __item
+  }// videos
+  .video {
+
+  }// video
+  .videoDescription {
+
+  }// videoDescription
+  .news{
+
+  }// news
+  .newsItem {
+    width: 320px;
+    height: 564px;
+    margin-bottom: 15px;
+    &__img{
+      img{
+        width: 320px;
+      }
+    }
+    &:hover{
+
+    }// :hover
+    &__text{
+
+    }// __text
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// newsItem
+  .wrapperItems {
+
+  }// wrapperItems
+  .volunteerSection {
+
+  }// volunteerSection
+  .volunteerBlock {
+
+    &__headerSml{
+
+    }// __headerSml
+    &__header{
+
+    }// __header
+    &__description{
+
+    }// __description
+    &__button{
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// volunteerBlock
+  .wrapperSlider {
+
+  }// wrapperSlider
+  .partnersSection {
+
+  }// partnersSection
+  .partnersSection {
+
+    & .wrapper {
+
+    }// .wrapper
+    &__scroll {
+      width: 35px;
+      height: 35px;
+      line-height: 35px;
+      &:hover {
+
+      }// :hover
+    }// __scroll
+    &__slider {
+
+    }// __slider
+  }// partnersSection
+  #left {
+    left: -50px;
+  }// #left
+  #right {
+    right: -50px;
+  }// #right
+  .sliderItem {
+
+  }// sliderItem
+  .footerSection {
+
+    & .wrapper {
+
+    }// .wrapper
+  }// footerSection
+  .footer {
+
+  }// footer
+  .footerLogo{
+    &__img {
+
+      img {
+
+      }// img
+    }// __img
+    &__icons{
+
+      & ul{
+
+        & li{
+
+          & a{
+
+            &:hover{
+
+            }// :hover
+          }// a
+        }// li
+      }// ul
+    }// __icons
+  }// footerLogo
+  .flex{
+
+  }// flex
+  .footerSectionFlex {
+
+  }// footerSectionFlex
+  .separator {
+
+  }// separator
+  .siteLinks{
+    &__header{
+
+    }// __header
+    & ul li {
+
+      a {
+
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// ul li
+  }// siteLinks
+  .thick {
+
+  }// thick
+  .thin {
+
+  }// thin
+  .contactUs {
+
+    &__header{
+
+    }// __header
+    &__address {
+
+    }// __address
+    &__phone {
+
+    }// __phone
+  }// contactUs
+  .conIcon{
+
+  }// conIcon
+  .conInfo {
+
+    & p {
+
+    }// p
+  }// conInfo
+  .stayInf{
+    &__header{
+
+    }// __header
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// stayInf
+  .copyright {
+
+  }// copyright
 }
 @media screen and ( max-width: 360px ) {
   h1 {
@@ -2042,6 +5287,266 @@
       }// -item
     }// __items
   }// aboutSection
+
+  .headerSection {
+
+    &__header {
+
+    }// __header
+    &__description {
+
+    }// __description
+  }// headerSection
+  .itemsSection {
+
+    &__item {
+
+    }// __item
+  }// itemsSection
+  .calendarSection{
+
+  }// calendarSection
+  .calendarItems {
+
+  }// calendarItems
+  .seeAll {
+
+    & p {
+
+    }// p
+    &:hover p {
+
+    }// :hover p
+  }// seeAll
+  .calendarItem {
+    width: 300px;
+    &__img{
+      img{
+        width: 300px;
+      }
+    }
+    &:hover{
+
+    }// :hover
+    &__logo {
+
+    }// __logo
+    &__header{
+
+    }// __header
+    &__description {
+
+    }// __description
+    &__data{
+
+      & span{
+
+      }// span
+    }// __data
+  }// calendarItem
+  .videoSection{
+
+  }// videoSection
+  .videos {
+
+    &__item {
+
+      &:last-child {
+
+      }// :last-child
+    }// __item
+  }// videos
+  .video {
+
+  }// video
+  .videoDescription {
+
+  }// videoDescription
+  .news{
+
+  }// news
+  .newsItem {
+    width: 300px;
+    &__img{
+      img{
+        width: 300px;
+      }
+    }
+    &:hover{
+
+    }// :hover
+    &__text{
+
+    }// __text
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// newsItem
+  .wrapperItems {
+
+  }// wrapperItems
+  .volunteerSection {
+
+  }// volunteerSection
+  .volunteerBlock {
+
+    &__headerSml{
+
+    }// __headerSml
+    &__header{
+
+    }// __header
+    &__description{
+
+    }// __description
+    &__button{
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// volunteerBlock
+  .wrapperSlider {
+
+  }// wrapperSlider
+  .partnersSection {
+
+  }// partnersSection
+  .partnersSection {
+
+    & .wrapper {
+
+    }// .wrapper
+    &__scroll {
+      width: 32px;
+      height: 32px;
+      line-height: 32px;
+      &:hover {
+
+      }// :hover
+    }// __scroll
+    &__slider {
+
+    }// __slider
+  }// partnersSection
+  #left {
+    left: -37px;
+  }// #left
+  #right {
+    right: -34px;
+  }// #right
+  .sliderItem {
+
+  }// sliderItem
+  .footerSection {
+
+    & .wrapper {
+
+    }// .wrapper
+  }// footerSection
+  .footer {
+
+  }// footer
+  .footerLogo{
+    &__img {
+
+      img {
+
+      }// img
+    }// __img
+    &__icons{
+
+      & ul{
+
+        & li{
+
+          & a{
+
+            &:hover{
+
+            }// :hover
+          }// a
+        }// li
+      }// ul
+    }// __icons
+  }// footerLogo
+  .flex{
+
+  }// flex
+  .footerSectionFlex {
+
+  }// footerSectionFlex
+  .separator {
+
+  }// separator
+  .siteLinks{
+    &__header{
+
+    }// __header
+    & ul li {
+
+      a {
+
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// ul li
+  }// siteLinks
+  .thick {
+
+  }// thick
+  .thin {
+
+  }// thin
+  .contactUs {
+
+    &__header{
+
+    }// __header
+    &__address {
+
+    }// __address
+    &__phone {
+
+    }// __phone
+  }// contactUs
+  .conIcon{
+
+  }// conIcon
+  .conInfo {
+
+    & p {
+
+    }// p
+  }// conInfo
+  .stayInf{
+    &__header{
+
+    }// __header
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// stayInf
+  .copyright {
+
+  }// copyright
 }
 @media screen and ( max-width: 320px ) {
   h1 {
@@ -2207,4 +5712,252 @@
       }// -item
     }// __items
   }// aboutSection
+
+  .headerSection {
+
+    &__header {
+
+    }// __header
+    &__description {
+
+    }// __description
+  }// headerSection
+  .itemsSection {
+
+    &__item {
+
+    }// __item
+  }// itemsSection
+  .calendarSection{
+
+  }// calendarSection
+  .calendarItems {
+
+  }// calendarItems
+  .seeAll {
+
+    & p {
+
+    }// p
+    &:hover p {
+
+    }// :hover p
+  }// seeAll
+  .calendarItem {
+
+    &:hover{
+
+    }// :hover
+    &__logo {
+
+    }// __logo
+    &__header{
+
+    }// __header
+    &__description {
+
+    }// __description
+    &__data{
+
+      & span{
+
+      }// span
+    }// __data
+  }// calendarItem
+  .videoSection{
+
+  }// videoSection
+  .videos {
+
+    &__item {
+
+      &:last-child {
+
+      }// :last-child
+    }// __item
+  }// videos
+  .video {
+
+  }// video
+  .videoDescription {
+
+  }// videoDescription
+  .news{
+
+  }// news
+  .newsItem {
+
+    &:hover{
+
+    }// :hover
+    &__text{
+
+    }// __text
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// newsItem
+  .wrapperItems {
+
+  }// wrapperItems
+  .volunteerSection {
+
+  }// volunteerSection
+  .volunteerBlock {
+
+    &__headerSml{
+
+    }// __headerSml
+    &__header{
+
+    }// __header
+    &__description{
+
+    }// __description
+    &__button{
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// volunteerBlock
+  .wrapperSlider {
+
+  }// wrapperSlider
+  .partnersSection {
+
+  }// partnersSection
+  .partnersSection {
+
+    & .wrapper {
+
+    }// .wrapper
+    &__scroll {
+
+      &:hover {
+
+      }// :hover
+    }// __scroll
+    &__slider {
+
+    }// __slider
+  }// partnersSection
+  #left {
+
+  }// #left
+  #right {
+
+  }// #right
+  .sliderItem {
+
+  }// sliderItem
+  .footerSection {
+
+    & .wrapper {
+
+    }// .wrapper
+  }// footerSection
+  .footer {
+
+  }// footer
+  .footerLogo{
+    &__img {
+
+      img {
+
+      }// img
+    }// __img
+    &__icons{
+
+      & ul{
+
+        & li{
+
+          & a{
+
+            &:hover{
+
+            }// :hover
+          }// a
+        }// li
+      }// ul
+    }// __icons
+  }// footerLogo
+  .flex{
+
+  }// flex
+  .footerSectionFlex {
+
+  }// footerSectionFlex
+  .separator {
+
+  }// separator
+  .siteLinks{
+    &__header{
+
+    }// __header
+    & ul li {
+
+      a {
+
+
+        &:hover {
+
+        }// :hover
+      }// a
+    }// ul li
+  }// siteLinks
+  .thick {
+
+  }// thick
+  .thin {
+
+  }// thin
+  .contactUs {
+
+    &__header{
+
+    }// __header
+    &__address {
+
+    }// __address
+    &__phone {
+
+    }// __phone
+  }// contactUs
+  .conIcon{
+
+  }// conIcon
+  .conInfo {
+
+    & p {
+
+    }// p
+  }// conInfo
+  .stayInf{
+    &__header{
+
+    }// __header
+    &__button {
+
+      &:hover {
+
+      }// :hover
+      &:active {
+
+      }// :active
+    }// __button
+  }// stayInf
+  .copyright {
+
+  }// copyright
 }
